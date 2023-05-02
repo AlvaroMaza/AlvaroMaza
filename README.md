@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Álvaro Maza</h1>
-<h3 align="center">Data Science and Engineering</h3>
+<h3 align="center">Data Scientist and Engineer</h3>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
